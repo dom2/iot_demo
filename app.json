@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "IoTDemo",
+    "icon": "./src/images/app-icon.png",
+    "version": "1.0.0",
+    "slug": "IoTDemo",
+    "sdkVersion": "25.0.0",
+    "ios": {
+      "bundleIdentifier": "com.oracle.IoTDemo"
+    },
+    "android": {
+      "package": "com.oracle.IoTDemo"
+    }
+  }
+}
